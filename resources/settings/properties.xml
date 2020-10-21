@@ -1,0 +1,5 @@
+<properties>
+	<property id="Latitude" type="float">50.45466</property>
+	<property id="Longitude" type="float">30.5238</property>
+	<property id="BackgroundColor" type="number">0x00000000</property>
+</properties>

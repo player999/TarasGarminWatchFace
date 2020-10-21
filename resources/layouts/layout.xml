@@ -1,0 +1,27 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+	<label id="HoursLabel" x="left" y="center" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_BLUE" /><label
+		id="MinutesLabel" x="center" y="center"
+		font="Graphics.FONT_NUMBER_MEDIUM"
+		justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_YELLOW">
+</label>
+	<label id="SecondsLabel" x="right" y="center"
+		font="Graphics.FONT_NUMBER_MEDIUM"
+		justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_GREEN">
+	</label>
+	<label id="WWLabel" x="center" y="0" font="Graphics.FONT_LARGE"
+		justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE">
+	</label>
+	<label id="WeekdayLabel" x="25" y="40" font="Graphics.FONT_LARGE"
+		justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE">
+	</label>
+	<label id="DateLabel" x="120" y="40" font="Graphics.FONT_LARGE"
+		justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE">
+	</label>
+	<label id="SunLabel1" x="25" y="140" font="Graphics.FONT_MEDIUM"
+		justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_WHITE">
+	</label>
+	<label id="SunLabel2" x="175" y="140" font="Graphics.FONT_MEDIUM"
+		justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_WHITE">
+	</label>
+</layout>

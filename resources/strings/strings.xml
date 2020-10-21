@@ -1,0 +1,10 @@
+<strings>
+    <string id="WWfmt">WW$1$</string><string id="AppName">Taras Watchface</string>
+
+	<string id="Latitude">Latitude</string>
+	<string id="Longitude">Longitude</string>
+	<string id="SunDownFmt">DO$1$$2$</string>
+	<string id="SunRiseFmt">R$1$$2$</string>
+	<string id="SunSetFmt">S$1$$2$</string>
+	<string id="SunDuskFmt">DU$1$$2$</string>
+</strings>

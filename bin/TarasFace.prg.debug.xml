@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/user/eclipse-workspace/TarasFace/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="7" lineNum="24" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceApp.mc" id="7" lineNum="25" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="9" lineNum="22" pc="268435552" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="9" lineNum="24" pc="268435556" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="9" lineNum="25" pc="268435566" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="9" lineNum="26" pc="268435576" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="11" lineNum="34" pc="268435587" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="11" lineNum="36" pc="268435591" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="11" lineNum="37" pc="268435628" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="11" lineNum="38" pc="268435665" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="12" lineNum="41" pc="268435684" symbol="onLayout"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="12" lineNum="43" pc="268435688" symbol="onLayout"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="13" lineNum="46" pc="268435726" symbol="onShow"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="51" pc="268435731" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="53" pc="268435735" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="58" pc="268435779" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="59" pc="268435798" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="60" pc="268435841" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="62" pc="268435885" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="14" lineNum="64" pc="268435895" symbol="getDayOneWeekOne"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="67" pc="268435989" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="69" pc="268435993" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="70" pc="268436024" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="71" pc="268436045" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="72" pc="268436055" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="74" pc="268436071" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="75" pc="268436081" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="79" pc="268436099" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="80" pc="268436120" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="82" pc="268436136" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="83" pc="268436146" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="87" pc="268436153" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="15" lineNum="88" pc="268436217" symbol="getWW"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="16" lineNum="91" pc="268436221" symbol="weekDay"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="16" lineNum="93" pc="268436225" symbol="weekDay"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="16" lineNum="94" pc="268436256" symbol="weekDay"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="17" lineNum="97" pc="268436266" symbol="currentDate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="17" lineNum="99" pc="268436270" symbol="currentDate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="17" lineNum="100" pc="268436301" symbol="currentDate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="18" lineNum="103" pc="268436389" symbol="unix2julian"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="18" lineNum="105" pc="268436393" symbol="unix2julian"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="19" lineNum="108" pc="268436426" symbol="julian2unix"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="19" lineNum="110" pc="268436430" symbol="julian2unix"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="20" lineNum="113" pc="268436489" symbol="modified_julian_date"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="20" lineNum="115" pc="268436493" symbol="modified_julian_date"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="20" lineNum="116" pc="268436508" symbol="modified_julian_date"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="20" lineNum="117" pc="268436557" symbol="modified_julian_date"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="21" lineNum="120" pc="268436561" symbol="mean_solar_noon"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="21" lineNum="122" pc="268436565" symbol="mean_solar_noon"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="22" lineNum="125" pc="268436588" symbol="solar_mean_anomaly"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="22" lineNum="127" pc="268436592" symbol="solar_mean_anomaly"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="22" lineNum="128" pc="268436627" symbol="solar_mean_anomaly"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="22" lineNum="129" pc="268436655" symbol="solar_mean_anomaly"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="22" lineNum="130" pc="268436662" symbol="solar_mean_anomaly"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="23" lineNum="133" pc="268436675" symbol="equation_of_center"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="23" lineNum="135" pc="268436679" symbol="equation_of_center"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="23" lineNum="136" pc="268436717" symbol="equation_of_center"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="24" lineNum="139" pc="268436814" symbol="ecliptic_longitude"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="24" lineNum="141" pc="268436818" symbol="ecliptic_longitude"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="24" lineNum="142" pc="268436867" symbol="ecliptic_longitude"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="24" lineNum="143" pc="268436895" symbol="ecliptic_longitude"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="24" lineNum="144" pc="268436902" symbol="ecliptic_longitude"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="25" lineNum="147" pc="268436915" symbol="solar_transit"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="25" lineNum="149" pc="268436919" symbol="solar_transit"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="25" lineNum="150" pc="268436967" symbol="solar_transit"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="25" lineNum="151" pc="268437005" symbol="solar_transit"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="26" lineNum="154" pc="268437086" symbol="declination_of_sun"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="26" lineNum="156" pc="268437090" symbol="declination_of_sun"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="27" lineNum="159" pc="268437191" symbol="hour_angle"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="27" lineNum="161" pc="268437195" symbol="hour_angle"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="27" lineNum="162" pc="268437210" symbol="hour_angle"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="27" lineNum="163" pc="268437238" symbol="hour_angle"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="27" lineNum="164" pc="268437271" symbol="hour_angle"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="167" pc="268437377" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="169" pc="268437381" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="170" pc="268437396" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="172" pc="268437396" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="174" pc="268437427" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="178" pc="268437464" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="181" pc="268437475" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="182" pc="268437482" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="184" pc="268437513" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="28" lineNum="187" pc="268437523" symbol="getSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="190" pc="268437592" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="192" pc="268437596" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="193" pc="268437619" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="195" pc="268437635" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="196" pc="268437686" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="197" pc="268437709" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="198" pc="268437732" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="199" pc="268437763" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="200" pc="268437794" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="204" pc="268437826" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="205" pc="268437849" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="207" pc="268437865" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="208" pc="268437915" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="212" pc="268437974" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="213" pc="268438024" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="29" lineNum="214" pc="268438074" symbol="getNearestSunEvent"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="219" pc="268438104" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="221" pc="268438108" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="222" pc="268438125" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="223" pc="268438142" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="232" pc="268438142" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="233" pc="268438166" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="234" pc="268438200" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="235" pc="268438224" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="236" pc="268438241" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="237" pc="268438265" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="239" pc="268438299" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="240" pc="268438323" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="241" pc="268438426" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="242" pc="268438450" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="243" pc="268438475" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="244" pc="268438499" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="245" pc="268438524" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="246" pc="268438539" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="248" pc="268438553" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="249" pc="268438577" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="251" pc="268438717" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="252" pc="268438741" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="258" pc="268438884" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="259" pc="268438908" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="261" pc="268439048" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="262" pc="268439072" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="30" lineNum="266" pc="268439212" symbol="onUpdate"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="31" lineNum="270" pc="268439233" symbol="onHide"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="32" lineNum="275" pc="268439238" symbol="onExitSleep"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceView.mc" id="33" lineNum="280" pc="268439243" symbol="onEnterSleep"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceBackground.mc" id="35" lineNum="7" pc="268439248" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceBackground.mc" id="35" lineNum="8" pc="268439252" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceBackground.mc" id="35" lineNum="12" pc="268439273" symbol="initialize"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceBackground.mc" id="36" lineNum="15" pc="268439294" symbol="draw"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceBackground.mc" id="36" lineNum="17" pc="268439298" symbol="draw"/>
+        <entry filename="/home/user/eclipse-workspace/TarasFace/source/TarasFaceBackground.mc" id="36" lineNum="18" pc="268439351" symbol="draw"/>
+        <entry filename="Rez" id="42" lineNum="15" pc="268439364" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="17" pc="268439376" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="18" pc="268439389" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="20" pc="268439402" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="21" pc="268439426" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="22" pc="268439593" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="23" pc="268439756" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="24" pc="268439923" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="25" pc="268440059" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="26" pc="268440192" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="27" pc="268440325" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="28" pc="268440458" symbol="WatchFace"/>
+        <entry filename="Rez" id="42" lineNum="30" pc="268440591" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="19" symbol="SunDuskFmt"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="8388938" symbol="month"/>
+        <entry field="true" id="26" symbol="SunRiseFmt"/>
+        <entry field="true" id="22" symbol="Latitude"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="34" method="true" symbol="unix2julian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="24" symbol="WWfmt"/>
+        <entry id="45" method="true" symbol="getNearestSunEvent"/>
+        <entry field="true" id="25" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="9" object="true" symbol="TarasFaceApp"/>
+        <entry field="true" id="10" symbol="SUN_DOWN"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="39" method="true" symbol="equation_of_center"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="43" method="true" symbol="hour_angle"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="11" symbol="SUN_RISE"/>
+        <entry field="true" id="13" symbol="SUN_DUSK"/>
+        <entry field="true" id="28" symbol="tl"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389314" symbol="latitude"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="29" symbol="setrise"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="40" method="true" symbol="ecliptic_longitude"/>
+        <entry id="36" method="true" symbol="modified_julian_date"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="21" symbol="SunSetFmt"/>
+        <entry id="33" method="true" symbol="currentDate"/>
+        <entry id="30" method="true" symbol="getDayOneWeekOne"/>
+        <entry id="42" method="true" symbol="declination_of_sun"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="8389315" symbol="longitude"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="14" object="true" symbol="NearestEvent"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="12" symbol="SUN_SET"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="35" method="true" symbol="julian2unix"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="37" method="true" symbol="mean_solar_noon"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="20" symbol="SunDownFmt"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry id="44" method="true" symbol="getSunEvent"/>
+        <entry field="true" id="23" symbol="Longitude"/>
+        <entry id="31" method="true" symbol="getWW"/>
+        <entry field="true" id="27" symbol="is_set"/>
+        <entry id="32" method="true" symbol="weekDay"/>
+        <entry id="41" method="true" symbol="solar_transit"/>
+        <entry field="true" id="8388940" symbol="year"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="15" object="true" symbol="TarasFaceView"/>
+        <entry id="38" method="true" symbol="solar_mean_anomaly"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435587" name="iss" stackId="1" startPc="268435552"/>
+        <entry arg="true" endPc="268435587" name="twilight" stackId="2" startPc="268435552"/>
+        <entry arg="true" endPc="268435587" name="main_event" stackId="3" startPc="268435552"/>
+        <entry arg="true" endPc="268435726" name="dc" stackId="1" startPc="268435684"/>
+        <entry endPc="268435988" name="soy" stackId="3" startPc="268435735"/>
+        <entry endPc="268435988" name="options" stackId="2" startPc="268435735"/>
+        <entry endPc="268435988" name="dow" stackId="4" startPc="268435735"/>
+        <entry arg="true" endPc="268435989" name="year" stackId="1" startPc="268435731"/>
+        <entry endPc="268436153" name="tv" stackId="5" startPc="268436099"/>
+        <entry endPc="268436220" name="d1w1" stackId="3" startPc="268435993"/>
+        <entry endPc="268436220" name="nfo" stackId="2" startPc="268435993"/>
+        <entry endPc="268436220" name="wn" stackId="6" startPc="268435993"/>
+        <entry endPc="268436220" name="yn" stackId="4" startPc="268435993"/>
+        <entry arg="true" endPc="268436221" name="now" stackId="1" startPc="268435989"/>
+        <entry endPc="268436265" name="nfo" stackId="2" startPc="268436225"/>
+        <entry arg="true" endPc="268436266" name="now" stackId="1" startPc="268436221"/>
+        <entry endPc="268436388" name="nfo" stackId="2" startPc="268436270"/>
+        <entry arg="true" endPc="268436389" name="now" stackId="1" startPc="268436266"/>
+        <entry arg="true" endPc="268436426" name="unixtime" stackId="1" startPc="268436389"/>
+        <entry arg="true" endPc="268436489" name="jd" stackId="1" startPc="268436426"/>
+        <entry endPc="268436560" name="jd" stackId="2" startPc="268436493"/>
+        <entry endPc="268436560" name="mjd" stackId="3" startPc="268436493"/>
+        <entry arg="true" endPc="268436561" name="unixtime" stackId="1" startPc="268436489"/>
+        <entry arg="true" endPc="268436588" name="mjd" stackId="1" startPc="268436561"/>
+        <entry endPc="268436674" name="fraction" stackId="4" startPc="268436592"/>
+        <entry endPc="268436674" name="whole_angle" stackId="3" startPc="268436592"/>
+        <entry endPc="268436674" name="angle" stackId="2" startPc="268436592"/>
+        <entry arg="true" endPc="268436675" name="mjd" stackId="1" startPc="268436588"/>
+        <entry endPc="268436813" name="M" stackId="2" startPc="268436679"/>
+        <entry arg="true" endPc="268436814" name="mjd" stackId="1" startPc="268436675"/>
+        <entry endPc="268436914" name="fraction" stackId="4" startPc="268436818"/>
+        <entry endPc="268436914" name="whole_angle" stackId="3" startPc="268436818"/>
+        <entry endPc="268436914" name="angle" stackId="2" startPc="268436818"/>
+        <entry arg="true" endPc="268436915" name="mjd" stackId="1" startPc="268436814"/>
+        <entry endPc="268437085" name="lbd2" stackId="2" startPc="268436919"/>
+        <entry endPc="268437085" name="M" stackId="3" startPc="268436919"/>
+        <entry arg="true" endPc="268437086" name="mjd" stackId="1" startPc="268436915"/>
+        <entry arg="true" endPc="268437191" name="mjd" stackId="1" startPc="268437086"/>
+        <entry endPc="268437376" name="cos_delta" stackId="3" startPc="268437195"/>
+        <entry endPc="268437376" name="sin_delta" stackId="2" startPc="268437195"/>
+        <entry endPc="268437376" name="lat" stackId="4" startPc="268437195"/>
+        <entry arg="true" endPc="268437377" name="mjd" stackId="1" startPc="268437191"/>
+        <entry endPc="268437591" name="ang" stackId="4" startPc="268437381"/>
+        <entry endPc="268437591" name="mjd" stackId="3" startPc="268437381"/>
+        <entry endPc="268437591" name="set_dusk" stackId="5" startPc="268437381"/>
+        <entry arg="true" endPc="268437592" name="current_time" stackId="2" startPc="268437377"/>
+        <entry arg="true" endPc="268437592" name="event_type" stackId="1" startPc="268437377"/>
+        <entry endPc="268437823" name="next_day" stackId="3" startPc="268437635"/>
+        <entry endPc="268437823" name="rise" stackId="7" startPc="268437635"/>
+        <entry endPc="268437823" name="down_moment" stackId="4" startPc="268437635"/>
+        <entry endPc="268437823" name="rise_moment" stackId="5" startPc="268437635"/>
+        <entry endPc="268437823" name="down" stackId="6" startPc="268437635"/>
+        <entry endPc="268437971" name="set" stackId="9" startPc="268437865"/>
+        <entry endPc="268438103" name="rise" stackId="11" startPc="268437974"/>
+        <entry endPc="268438103" name="down" stackId="10" startPc="268437974"/>
+        <entry endPc="268438103" name="rise" stackId="8" startPc="268437826"/>
+        <entry endPc="268438103" name="dusk" stackId="2" startPc="268437596"/>
+        <entry arg="true" endPc="268438104" name="current_time" stackId="1" startPc="268437592"/>
+        <entry endPc="268439232" name="near_event" stackId="5" startPc="268438108"/>
+        <entry endPc="268439232" name="view" stackId="4" startPc="268438108"/>
+        <entry endPc="268439232" name="now" stackId="3" startPc="268438108"/>
+        <entry endPc="268439232" name="clockTime" stackId="2" startPc="268438108"/>
+        <entry arg="true" endPc="268439233" name="dc" stackId="1" startPc="268438104"/>
+        <entry endPc="268439293" name="dictionary" stackId="1" startPc="268439252"/>
+        <entry arg="true" endPc="268439364" name="dc" stackId="1" startPc="268439294"/>
+        <entry endPc="268440688" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_SunLabel2" stackId="12" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_WeekdayLabel" stackId="9" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_SunLabel1" stackId="11" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_custom_drawable_11616674721553952178" stackId="4" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_WWLabel" stackId="8" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_DateLabel" stackId="10" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_HoursLabel" stackId="5" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_SecondsLabel" stackId="7" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_text_MinutesLabel" stackId="6" startPc="268439376"/>
+        <entry endPc="268440688" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268439376"/>
+        <entry arg="true" endPc="268440689" name="dc" stackId="1" startPc="268439364"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="198" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="253" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="433" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="472" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="598" parentId="globals" symbolId="TarasFaceApp" type="class"/>
+        <dataEntry offset="677" parentId="globals" symbolId="NearestEvent" type="class"/>
+        <dataEntry offset="748" parentId="globals" symbolId="TarasFaceView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="TarasFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="TarasFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="TarasFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="TarasFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="TarasFaceApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="NearestEvent">
+            <param id="iss"/>
+            <param id="twilight"/>
+            <param id="main_event"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TarasFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="TarasFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="TarasFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDayOneWeekOne" parent="TarasFaceView">
+            <param id="year"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getWW" parent="TarasFaceView">
+            <param id="now"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="weekDay" parent="TarasFaceView">
+            <param id="now"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="currentDate" parent="TarasFaceView">
+            <param id="now"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="unix2julian" parent="TarasFaceView">
+            <param id="unixtime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="julian2unix" parent="TarasFaceView">
+            <param id="jd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="modified_julian_date" parent="TarasFaceView">
+            <param id="unixtime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="mean_solar_noon" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="solar_mean_anomaly" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="equation_of_center" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="ecliptic_longitude" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="solar_transit" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="declination_of_sun" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="hour_angle" parent="TarasFaceView">
+            <param id="mjd"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSunEvent" parent="TarasFaceView">
+            <param id="event_type"/>
+            <param id="current_time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getNearestSunEvent" parent="TarasFaceView">
+            <param id="current_time"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="TarasFaceView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="TarasFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="TarasFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="TarasFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
